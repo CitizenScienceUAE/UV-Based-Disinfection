@@ -1,4 +1,4 @@
-# UV-Based-Disinfection
+# UV Based Disinfection Technologies 
 
 An innovative approach to maintaining sufficient stocks of N-95 and surgical masks, and other disposable protective equipment, is to find a method that would allow the safe and hygienic reuse of this equipment. This is primarily a question of disinfecting the equipment without degrading its protective capabilities.
 
