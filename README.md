@@ -1,5 +1,13 @@
 # UV-Based-Disinfection
 
-A DIY UV-C Sterilizer, Designed to Disinfect Everything from Face Masks to Cell-Phones 
+An innovative approach to maintaining sufficient stocks of N-95 and surgical masks, and other disposable protective equipment, is to find a method that would allow the safe and hygienic reuse of this equipment. This is primarily a question of disinfecting the equipment without degrading its protective capabilities.
 
-With the sharp increase in COVID-19 cases, a shortage in medical PPE is becoming a concern. This is mainly since the protection gear is of single use. Therefore, being able to re-use them will help avoid this shortage. This could be done through disinfecting the equipment used.  A very common method of disinfection is UV-C waves. These UV waves are known for their germicidal abilities. After exposing viruses and germs to these waves for a certain amount of time, they will be inactivated and unable to reproduce. With the use of UVC lamps, aluminum and a compact box, a disinfection chamber could be created for that purpose. It is a quite simple concept, which is very effective and simple enough to DIY. The internal surface of the box is covered in aluminum in order to make sure that the UV light is reflected on all parts of the infected object. After that, UVC lamps are placed in a box based on the required dose and intensity. The infected part is to be placed in a box for a certain period, until it is disinfected and ready to be reused.  This does not only apply to medical PPE, but also other equipment which are more prone to infection such as cell-phones.....etc
+This solution could allow equipment to be used up to four times, instead of just once. Examples of equipment that could be sterilised in this way include:
+
+N-95 and surgical masks
+Face shields
+Full-body protective Hazmat suits
+Head covers
+Technical approach
+
+Our research has shown that UV-Type C LED lights offer a powerful means of sterilisation through ultraviolet germicidal irradiation. The short-wavelength UV-C light kills or deactivates the virus by destroying its nucleic acids and disrupting its DNA. By running the PPE equipment under the UV-C light, the COVID-19 virus on these surfaces is destroyed.
