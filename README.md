@@ -8,6 +8,8 @@ This solution could allow equipment to be used up to four times, instead of just
 * Face shields
 * Full-body protective Hazmat suits
 * Head covers
-* Technical approach
+
+Technical approach
+---------------------
 
 Our research has shown that UV-Type C LED lights offer a powerful means of sterilisation through ultraviolet germicidal irradiation. The short-wavelength UV-C light kills or deactivates the virus by destroying its nucleic acids and disrupting its DNA. By running the PPE equipment under the UV-C light, the COVID-19 virus on these surfaces is destroyed.
