@@ -17,5 +17,5 @@ Our research has shown that UV-Type C LED lights offer a powerful means of steri
 
 ![picture] (images/UV_Control_Circuit_Breadboard_Layout_Update.png)
 
-![Breadboard schematics](images/UV_Control.png)
+![Breadboard schematics](images/parts_4.jpeg)
 
