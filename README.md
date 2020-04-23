@@ -15,4 +15,7 @@ Technical approach
 Our research has shown that UV-Type C LED lights offer a powerful means of sterilisation through ultraviolet germicidal irradiation. The short-wavelength UV-C light kills or deactivates the virus by destroying its nucleic acids and disrupting its DNA. By running the PPE equipment under the UV-C light, the COVID-19 virus on these surfaces is destroyed.
 
 
-! [picture] (images/UV_Control_Circuit_Breadboard_Layout_Update.png)
+![picture] (images/UV_Control_Circuit_Breadboard_Layout_Update.png)
+
+![Breadboard schematics](img/MQ131_bb.png)
+
